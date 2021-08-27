@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/marktechnical/static/css/main.078e33db.chunk.css",
+    "main.js": "/marktechnical/static/js/main.89c22235.chunk.js",
+    "main.js.map": "/marktechnical/static/js/main.89c22235.chunk.js.map",
+    "runtime-main.js": "/marktechnical/static/js/runtime-main.92caf30b.js",
+    "runtime-main.js.map": "/marktechnical/static/js/runtime-main.92caf30b.js.map",
+    "static/css/2.6293a573.chunk.css": "/marktechnical/static/css/2.6293a573.chunk.css",
+    "static/js/2.7153997c.chunk.js": "/marktechnical/static/js/2.7153997c.chunk.js",
+    "static/js/2.7153997c.chunk.js.map": "/marktechnical/static/js/2.7153997c.chunk.js.map",
+    "index.html": "/marktechnical/index.html",
+    "static/css/2.6293a573.chunk.css.map": "/marktechnical/static/css/2.6293a573.chunk.css.map",
+    "static/css/main.078e33db.chunk.css.map": "/marktechnical/static/css/main.078e33db.chunk.css.map",
+    "static/js/2.7153997c.chunk.js.LICENSE.txt": "/marktechnical/static/js/2.7153997c.chunk.js.LICENSE.txt",
+    "static/media/JS.d42546a1.svg": "/marktechnical/static/media/JS.d42546a1.svg",
+    "static/media/JS1.dd08f01f.svg": "/marktechnical/static/media/JS1.dd08f01f.svg",
+    "static/media/JS2.2532e478.svg": "/marktechnical/static/media/JS2.2532e478.svg",
+    "static/media/JS3.f2fdb80e.svg": "/marktechnical/static/media/JS3.f2fdb80e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92caf30b.js",
+    "static/css/2.6293a573.chunk.css",
+    "static/js/2.7153997c.chunk.js",
+    "static/css/main.078e33db.chunk.css",
+    "static/js/main.89c22235.chunk.js"
+  ]
+}
